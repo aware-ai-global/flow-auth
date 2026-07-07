@@ -1,0 +1,13 @@
+{
+  "name": "flow-auth",
+  "version": "2.0.0",
+  "description": "Drop-in SSO for protected app routes, backed by the Flow gateway.",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": "./index.mjs",
+  "files": ["index.mjs"],
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/aware-ai-global/flow-auth" },
+  "license": "UNLICENSED",
+  "private": false
+}

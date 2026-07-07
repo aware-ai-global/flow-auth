@@ -1,0 +1,13 @@
+[project]
+name = "flow-auth"
+version = "2.0.0"
+description = "Drop-in SSO for protected app routes, backed by the Flow gateway."
+requires-python = ">=3.9"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["flow_auth"]

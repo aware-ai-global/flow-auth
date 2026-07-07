@@ -1,0 +1,4 @@
+node_modules/
+python/build/
+python/*.egg-info/
+__pycache__/
